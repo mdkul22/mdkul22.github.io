@@ -14,7 +14,7 @@ sensing boards. I have been recently getting into open source split keyboards. T
 my journey into these projects. 
 # Projects
 1. [Picomotion](projects/picomotion/about.md)
-2. [ZMK Corne Build](projects/mdk-corne/about.md)
+2. [ZMK Corne Build](projects/mdk-corne-zmk/about.md)
 3. [QMK Corne Build](projects/mdk-corne-qmk/about.md)
 
 # About 
