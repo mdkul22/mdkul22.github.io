@@ -9,3 +9,4 @@ redirect_from:
 
 # What's this for?
 Mainly contains blogs regarding the hobbies / work I have been getting into. 
+
