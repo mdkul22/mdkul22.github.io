@@ -13,9 +13,9 @@ I am an embedded systems programmer interested in various topics mainly building
 sensing boards. I have been recently getting into open source split keyboards. This website will mostly discuss
 my journey into these projects. 
 # Projects
-1. [Picomotion](_projects/picomotion/about.md)
-2. [ZMK Corne Build](_projects/mdk-corne-zmk/about.md)
-3. [QMK Corne Build](_projects/mdk-corne-qmk/about.md)
+1. [Picomotion](projects/picomotion/about.md)
+2. [ZMK Corne Build](projects/mdk-corne-zmk/about.md)
+3. [QMK Corne Build](projects/mdk-corne-qmk/about.md)
 
 # About 
 [About me](about.md)
