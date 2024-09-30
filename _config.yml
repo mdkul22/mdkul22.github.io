@@ -2,7 +2,4 @@ theme: minima
 markdown: kramdown
 title: mdkul22's homepage
 description: Bookmark this to keep an eye on my project updates!
-collections:
-  projects:
-    output: true
 
