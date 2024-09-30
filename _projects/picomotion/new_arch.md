@@ -1,3 +1,7 @@
+---
+title: "Thinking about easy embedded file architectures"
+---
+
 # New architecture 
 Thinking of the way I have organized the project makes me feel it lacks 
 modularity. Due to this the first effort would be to move the include
