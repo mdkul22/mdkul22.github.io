@@ -1,0 +1,32 @@
+---
+author: William Dalrymple
+book:
+  - The Anarchy
+---
+# Domination of Bengal
+
+> _Important Actors_: Siraj-ud-Daula, Governor Drake, Raja Manikchand (Governor appt, SuD), [Robert Clive](https://en.wikipedia.org/wiki/Robert_Clive#/media/File:Robert_Clive,_1st_Baron_Clive_by_Nathaniel_Dance,_(later_Sir_Nathaniel_Dance-Holland,_Bt).jpg), Admiral Watson, Jagat Seth, Mir Jafar
+> _Definitions_: [Battery visual](https://collection.nam.ac.uk/images/960/144000-144999/144341.jpg)
+> _Thoughts_: Indians with better leadership could have split British power by concentrating offense / subterfuge against Indians employed to the British. 
+> **_Events_** 
+> SuD rapid advance to Calcutta, Calcutta didn't have competent civilian or military leadership. SuD sieged Calcutta, attacked Black town. Incompetent defending led to the loss of Calcutta. 
+> English artillery arrived with Robert Clive + English Man-o-war. English admiral did not want to participate in supporting company against locals. Clive convinced admiral to join. Reparations alongside claiming back lost privileges were the objective. New muskets + mobile artillery made it possible to counter Mughal attacks. Calcutta conquered back by company in **1757**. 3rd January, Robert Clive declared war on SuD. 60K army on Calcutta, Clive does surprise night raid to capture SuD, fails. SuD scared of the ferocity, struck peace.  
+> 9 Feb **1757** -> Treaty of Alinagar: grants all rights back, gives company mint. 7 years war starts this year, forces admiral to attack [Chandernagar](https://en.wikipedia.org/wiki/Chandannagar)
+> Clive thought he got the assent to attack the French when Nawab requested military assistance if Afghans attack Bengal. Chandernagar was vulnerable to river attacks as land forts were pretty good. Clive alongside Admiral siege Chandernagar and with a lot of casualties on Navy capture Chandernagar. 
+> On invitation from Jagath Seth and Mir Jafar, EIC was proposed to participate in coup against SuD. EIC offered a large sum (annual revenue of Bengal) to participate. Clive agreed. 20:1 ratio in troop numbers in Plassey. 22nd June 1757 was the Battle of Plassey began between SuD and Clive. Initially EIC almost got surrounded and suffered casualties from artillery fire but after rain cannons stopped due to wet gunpowder. Mughal cavalry slaughtered assuming EIC guns disabled due to rain. EIC kept cannons dry and were able to return fire. Mir Jafar retreated enabling EIC victory. 
+> Mir Jafar soon proclaimed Nawab of Bengal and EIC began demanding reparations and money offered by coup conspirators. SuD tried escaping but was caught and murdered by a mercenary. Aliverdi Khan's entire family killed in one swoop to build legitimacy. Clive became one of the richest Europeans after this. Lower revenues for maintaining Bengal made Nawab rule ineffectual as all money went into EIC coffers. 
+> Most of the in field EIC officers were there to make risky power plays to grab more loot. Way more risk than EIC in London was ready to handle. 
+
+Chapter 3 describes the onset of how EIC is able to win Bengal. This is the first time a foreign colonial power is able to capture a massive region in India. The scene from the end of [[Chapter 2 - An Offer He Could Not Refuse#^f9ad47|Chapter 2]] where Siraj-ud-Daula after consolidating power attacked Calcutta due to the defiance of the governor to continue building fortifications. This loss of Calcutta led to a lot of loot and pillage by the Mughals. Thanks to the onset of the 7 years war with the French, the timing proved wrong for the Mughals as Clive rejoined EIC with a Navy fleet ready to take Calcutta back. 
+
+Siraj made the right decision to strike peace but also made miscalculations by not willing to support the French when the English sieged and captured Chandernagar. That was one force that the Mughals could have used to fight back against the slowly encroaching EIC. Added with this, the opportunistic and militarily capable Clive was able to strike deals with the enemies of Siraj and forced a war against him. High discipline and good training amongst the soldiers accounted for the majority of the reason why the British armies were able to mount successive campaigns against the Mughals.
+
+Thus began the the orderly loot of Bengal. After the Battle of Plassey was won, Mir Jafar was purely a puppet to the EIC due to his lack of political weight or acumen and the immense amount of money that he offered the British in order to become Nawab. The Jagat Seth bankers though smart bankers were short sighted or looking to have their lives saved from Siraj but played themselves by being the guaranteers of immense loans which the EIC sought. 
+
+### Fragmented power
+This chapter highlights how fragmented power was in the Indian landscape during this time. After Aurangzeb the anarchy had begun, it was just a matter of time to know which colonial power would take advantage of it. Ineffectual Indian leadership made it extremely hard for centralized leadership to act against foreign powers similar to how it happened in Japan. This also describes how usurping power was pretty easy in India, where the value of seat of power had no ritualized backing. It had become a highly money-driven affair where the seat of power was not based on Royal bloodlines or proving ancestries traced to old royal dynasties but was rather based on whether you had the backing of the military and later on, the merchant class. 
+
+### Inffective armies
+The first major conflict between Mughals and English also showcased how Indian armies had become more a "show of strength" rather than actual deadly power. These armies (50-60k strong) were massive, slow yet very sensitive to casualties ready to retreat at a moment's notice. It didn't take too many casualties to decide the outcome of the battle. The English after all weren't the best Army in the world. They had one of the best navies but the top armies were mostly fielded by the continental powers. Yet the training and discipline that the English provided to their soldiers proved to be a game changer in the Indian subcontinent.
+
+#observation Indiscipline in Indian armies especially the post-battle plundering was not helpful either. Most Indian armies had haphazard organizing post battle which led to ransacking, raiding and plundering of the cities and lands if the invading army won. This neither helped the citizens within those lands and led to a constant transfer of wealth between local regions leading to a constant destruction of economies.  ^ce25b3
